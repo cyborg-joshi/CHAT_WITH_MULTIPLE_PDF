@@ -1,6 +1,8 @@
 # CHAT_WITH_MULTIPLE_PDF
 The MultiPDF Chat App lets you ask questions about multiple PDFs using natural language. It provides relevant answers based on document content, powered by a language model. Note: It responds only to queries related to uploaded PDFs.
-![image](https://github.com/cyborg-joshi/CHAT_WITH_MULTIPLE_PDF/assets/91533278/2cc21249-ff3c-4595-bd08-7118405d3578# MultiPDF Chat App
+
+
+![image](https://github.com/cyborg-joshi/CHAT_WITH_MULTIPLE_PDF/assets/91533278/e2a9a105-245b-4dd5-84dc-56ce9721d930)
 
 
 ## Functionality Overview
